@@ -1,0 +1,20 @@
+nav{
+    background-color: black;
+    overflow: hidden;
+    padding: 1em;
+    border-bottom: 1px solid #000;
+}
+
+a {
+    color: #fff;
+    padding: 1em;
+  }
+
+a:hover {
+    color: yellow;
+    padding: 1em;
+  }
+
+  .nav-bar{
+    font-size: 20px; 
+  }
